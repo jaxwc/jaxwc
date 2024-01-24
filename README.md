@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jackson</h1>
+<h1 align="left">Howdy🤠, I'm Jackson</h1>
 <h3 align="left">A passionate college student on a journey through the realm of computer science. Currently majoring in Computer Science, I'm gearing up to transfer to either Texas Tech or Texas A&M this coming fall to further my academic pursuits.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
