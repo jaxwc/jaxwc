@@ -1,4 +1,4 @@
-<h1 align="left">Howdy🤠, I'm Jackson</h1>
+<h1 align="left">Hello🤠, I'm Jackson</h1>
 <h3 align="left">A passionate college student on a journey through the realm of computer science. Currently a student at Texas Tech, I'm diving deeper into my academic pursuits while striving to make an impact in the field of computer science.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
