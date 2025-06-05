@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vim,js,java,c,cpp,py,lua,git,github,css,html,swift)](https://skillicons.dev)
 
 ## 📫 Connect with Me
-![image]({https://www.linkedin.com})(https://www.linkedin.com/in/jackson-clark-73620a34b/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 ---
 
