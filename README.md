@@ -1,5 +1,5 @@
 <h1 align="left">Welcome to Middle-earth!</h1>
-<h3 align="left">I am Jackson, a passionate college student on a journey through the realm of computer science. Currently a student at Texas Tech, I'm diving deeper into my academic pursuits while striving to make an impact in the field.</h3>
+<h3 align="left">I am Jackson, a passionate college student currently embarked on a grand journey through the realm of computer science. At Texas Tech, I delve deep into the ancient lore of algorithms and systems, striving to forge new paths and make an impact in this ever-expanding field.</h3>
 
 ---
 
