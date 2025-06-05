@@ -1,7 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=vim,js,java,c,cpp,py,lua,git,github,css,html,swift)](https://skillicons.dev)
-
-
-
 # Hi there, I’m Jackson Clark 👋
 
 ## 🚀 About Me
@@ -15,7 +11,3 @@
 
 ## 📫 Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jackson-clark-73620a34b/)
-
----
-
-Thanks for visiting! ✨
