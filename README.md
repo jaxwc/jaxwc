@@ -16,5 +16,5 @@
 <ul>
   <li><b>GitHub:</b> <a href="https://github.com/jaxwc">My GitHub Profile</a> - You are here!</li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jackson-clark-73620a34b/">Connect on LinkedIn</a></li>
-  <li><b>Email:</b> <a>jacksocl@ttu.edu</a></li>
+  <li><b>Email:</b> <a>jacksonw.clark@ttu.edu</a></li>
 </ul>
