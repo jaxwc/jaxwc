@@ -6,8 +6,8 @@
 <h3 align="left">My Craft & Toolkit</h3>
 <p align="left">Within these halls reside the tools and lore I wield to shape the digital realm. My craft is built upon the pillars of dedication and continuous learning.</p>
 
-### Main skills
 [![My Skills](https://skillicons.dev/icons?i=vim,js,java,c,cpp,py,lua,git,github,css,html,swift)](https://skillicons.dev)
+
 ---
 
 <h3 align="left">Pathways to Connection</h3>
