@@ -14,7 +14,7 @@
 <p align="left">Should you seek alliance or wish to exchange wisdom, these are the pathways to reach me:</p>
 
 <ul>
-  <li><b>GitHub:</b> <a href="https://github.com/[YourUsername]">My GitHub Profile</a> - You are here!</li>
-  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/[YourLinkedInProfile]">Connect on LinkedIn</a></li>
-  <li><b>Email:</b> <a>[YourEmail@example.com]</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/jaxwc">My GitHub Profile</a> - You are here!</li>
+  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jackson-clark-73620a34b/">Connect on LinkedIn</a></li>
+  <li><b>Email:</b> <a>[jacksocl@ttu.edu]</a></li>
 </ul>
