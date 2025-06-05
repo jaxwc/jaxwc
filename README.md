@@ -7,8 +7,7 @@
 <p align="left">Within these halls reside the tools and lore I wield to shape the digital realm. My craft is built upon the pillars of dedication and continuous learning.</p>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=vim,js,java,c,cpp,py,lua,git,github,css,html,swift)](https://skillicons.dev)
 ---
 
 <h3 align="left">Pathways to Connection</h3>
